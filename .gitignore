@@ -1,0 +1,12 @@
+.cursor/
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+data/
+
+applications/
